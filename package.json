@@ -1,0 +1,17 @@
+{
+  "name": "cardice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-exec": "^0.4.7",
+    "phaser": "^2.4.8"
+  }
+}
